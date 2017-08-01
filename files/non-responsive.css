@@ -30,7 +30,6 @@ body,
 /* Reset the container */
 
 .container {
-  min-width: 7682px;
   max-width: none !important;
   margin-left: 20px;
 }
