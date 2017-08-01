@@ -1,0 +1,53 @@
+
+
+body {
+  padding: 10px;
+}
+
+body,
+.navbar-fixed-top,
+.navbar-fixed-bottom {
+  min-width: 970px;
+}
+
+
+
+.lead {
+  font-size: 16px;
+}
+
+
+
+.page-header {
+  margin-bottom: 30px;
+}
+
+.page-header .lead {
+  margin-bottom: 10px;
+}
+
+
+/* Reset the container */
+
+.container {
+  min-width: 7682px;
+  max-width: none !important;
+  margin-left: 20px;
+}
+
+
+/* Demonstrate the grids */
+
+.col-xs-4 {
+  width: 334px !important;
+}
+
+.panel-body {
+  height: 650px!important;  
+}
+
+.panel-title {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
